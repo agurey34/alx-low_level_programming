@@ -7,7 +7,7 @@
  *
  *  Return: If the number has a natural square root - the square root
  */
-int find_sqrt(int num, int root);
+int find_sqrt(int num, int root)
 {
 	if ((root * root) == num)
 		return (root);
