@@ -4,6 +4,7 @@
  * @s: array of elements
  * Return: i
  */
+
 int _strlen(char *s)
 {
 	unsigned int i;
