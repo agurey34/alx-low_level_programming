@@ -23,6 +23,7 @@ int _strlen(char *s)
  * @s2: Array two
  * Return: Always an array dinamic
  */
+
 char *str_concat(char *s1, char *s2)
 {
 	char *dst;
